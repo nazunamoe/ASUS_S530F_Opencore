@@ -15,9 +15,8 @@
 	
 # Not working
 
-	  Keyboard Backlight
-    Sleep (never checked)
-    Camera (never checked)
+	Keyboard Backlight
+	Sleep (never checked)
 
 # Thing will never able to use
 
@@ -25,4 +24,4 @@
 
 # Thanks to
 
- @tunglamvghy 
+@tunglamvghy 
